@@ -17,13 +17,13 @@ I'm a passionate IT and data science enthusiast with hands-on experience in syst
 ### 🤖 Discord Bot for Homelab Monitoring
 - Built with Python + Discord API
 - Monitors Netdata stats, exposes server status via slash commands & buttons
-- 🔗 [GitHub Repo](https://github.com/your-username/homelab-discord-bot)
+- 🔗 [GitHub Repo](https://github.com/ArvanJ/Zimablade-HomeLab)
 
 ---
 
 ## 📃 Resume
 
-📄 [View PDF Resume]([https://your-portfolio-link.com/arvan-resume.pdf](https://github.com/ArvanJ/Resume/blob/main/ArvanJindam_2025_Resume.pdf))
+📄 [View PDF Resume]([https://github.com/ArvanJ/Resume/blob/main/ArvanJindam_2025_Resume.pdf])
 
 ---
 
