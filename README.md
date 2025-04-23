@@ -23,14 +23,14 @@ I'm a passionate IT and data science enthusiast with hands-on experience in syst
 
 ## 📃 Resume
 
-📄 [View PDF Resume](https://github.com/ArvanJ/Resume/blob/main/ArvanJindam_2025_Resume.pdf)
+📄 [My Resumé](https://github.com/ArvanJ/Resume/blob/main/ArvanJindam_2025_Resume.pdf)
 
 ---
 
 ## 📫 Contact
 
 - 📧 Email: arvanj518@gmail.com  
-- 🐱 GitHub: [@your-username](https://github.com/your-username)  
+- 🐱 GitHub: [@ArvanJ](https://github.com/ArvanJ)  
 - 💼 LinkedIn: [linkedin.com/in/arvanjindam](https://linkedin.com/in/arvanjindam)  
 
 ---
