@@ -23,16 +23,15 @@ I'm a passionate IT and data science enthusiast with hands-on experience in syst
 
 ## 📃 Resume
 
-📄 [View PDF Resume](https://your-portfolio-link.com/arvan-resume.pdf)
+📄 [View PDF Resume]([https://your-portfolio-link.com/arvan-resume.pdf](https://github.com/ArvanJ/Resume/blob/main/ArvanJindam_2025_Resume.pdf))
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: yourname@email.com  
+- 📧 Email: arvanj518@gmail.com  
 - 🐱 GitHub: [@your-username](https://github.com/your-username)  
 - 💼 LinkedIn: [linkedin.com/in/arvanjindam](https://linkedin.com/in/arvanjindam)  
-- 🌐 Portfolio: [arvanjindam.dev](https://arvanjindam.dev)
 
 ---
 
